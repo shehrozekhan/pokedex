@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.7.0)
+  - CSV.swift (2.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - CSV.swift (~> 2.1.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 907e0a98eb68cdb7f9d1f541a563d6ac5dc77b25
+  CSV.swift: a24fb11c17875523783fe963592762ff163ef8ea
+
+PODFILE CHECKSUM: 4d041be89c7b2398d7733a78f5078593576aeb5a
+
+COCOAPODS: 1.4.0
